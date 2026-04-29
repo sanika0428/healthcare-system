@@ -1,0 +1,1252 @@
+Age,Gender,Disease,Recovery Time
+2,Male,Flu,10
+84,Male,Flu,6
+75,Female,Flu,6
+66,Male,Flu,8
+13,Female,Flu,5
+41,Female,Flu,9
+46,Male,Flu,5
+17,Male,Flu,7
+5,Female,Flu,9
+50,Female,Flu,6
+52,Male,Flu,5
+61,Male,Flu,10
+56,Male,Flu,10
+56,Female,Flu,9
+47,Female,Flu,6
+2,Male,Flu,7
+48,Male,Flu,9
+24,Female,Flu,5
+58,Male,Flu,5
+44,Female,Flu,8
+25,Female,Flu,6
+79,Female,Flu,8
+45,Male,Flu,9
+27,Male,Flu,6
+6,Male,Flu,9
+6,Male,Flu,7
+63,Female,Flu,6
+9,Male,Flu,9
+47,Female,Flu,10
+24,Male,Flu,7
+35,Male,Flu,9
+41,Female,Flu,8
+23,Female,Flu,5
+28,Male,Flu,10
+5,Male,Flu,5
+30,Male,Flu,8
+15,Female,Flu,6
+16,Male,Flu,9
+30,Female,Flu,8
+1,Female,Flu,6
+47,Male,Flu,9
+38,Female,Flu,8
+70,Male,Flu,10
+12,Female,Flu,8
+10,Female,Flu,10
+71,Male,Flu,6
+45,Female,Flu,9
+68,Male,Flu,8
+81,Female,Flu,5
+70,Male,Flu,5
+39,Female,Common Cold,7
+31,Male,Common Cold,6
+77,Female,Common Cold,3
+43,Male,Common Cold,3
+34,Male,Common Cold,3
+36,Male,Common Cold,3
+75,Male,Common Cold,6
+84,Female,Common Cold,5
+7,Male,Common Cold,6
+70,Male,Common Cold,7
+42,Male,Common Cold,5
+60,Male,Common Cold,3
+40,Male,Common Cold,7
+83,Male,Common Cold,6
+8,Male,Common Cold,4
+34,Male,Common Cold,5
+62,Male,Common Cold,3
+59,Female,Common Cold,6
+14,Female,Common Cold,5
+24,Male,Common Cold,7
+53,Male,Common Cold,6
+7,Female,Common Cold,6
+43,Female,Common Cold,7
+80,Female,Common Cold,6
+45,Female,Common Cold,5
+73,Female,Common Cold,5
+35,Male,Common Cold,6
+81,Male,Common Cold,6
+49,Female,Common Cold,7
+34,Female,Common Cold,3
+13,Male,Common Cold,3
+36,Male,Common Cold,5
+83,Female,Common Cold,4
+27,Male,Common Cold,7
+33,Female,Common Cold,3
+1,Male,Common Cold,6
+67,Male,Common Cold,6
+49,Male,Common Cold,7
+84,Male,Common Cold,5
+53,Male,Common Cold,7
+31,Male,Common Cold,4
+24,Male,Common Cold,3
+17,Female,Common Cold,4
+56,Male,Common Cold,3
+19,Female,Common Cold,5
+55,Female,Common Cold,5
+7,Male,Common Cold,4
+39,Male,Common Cold,4
+56,Male,Common Cold,6
+9,Male,Common Cold,7
+1,Female,Malaria,12
+24,Male,Malaria,11
+47,Female,Malaria,14
+53,Male,Malaria,14
+75,Female,Malaria,12
+51,Male,Malaria,19
+9,Female,Malaria,15
+10,Male,Malaria,10
+38,Female,Malaria,19
+13,Male,Malaria,15
+81,Female,Malaria,14
+16,Female,Malaria,11
+22,Female,Malaria,13
+46,Female,Malaria,10
+58,Female,Malaria,11
+82,Female,Malaria,14
+80,Female,Malaria,14
+80,Male,Malaria,16
+62,Male,Malaria,16
+25,Female,Malaria,11
+6,Female,Malaria,10
+69,Male,Malaria,16
+68,Male,Malaria,12
+1,Female,Malaria,12
+28,Female,Malaria,18
+47,Female,Malaria,15
+11,Male,Malaria,14
+25,Female,Malaria,20
+10,Male,Malaria,16
+39,Female,Malaria,20
+42,Female,Malaria,15
+31,Male,Malaria,18
+4,Female,Malaria,14
+29,Male,Malaria,13
+26,Female,Malaria,19
+36,Male,Malaria,14
+64,Male,Malaria,17
+58,Male,Malaria,19
+63,Male,Malaria,15
+67,Male,Malaria,13
+32,Male,Malaria,10
+42,Male,Malaria,15
+58,Female,Malaria,11
+32,Female,Malaria,10
+81,Male,Malaria,19
+5,Male,Malaria,12
+42,Male,Malaria,19
+50,Male,Malaria,19
+47,Female,Malaria,18
+32,Male,Malaria,14
+48,Male,Typhoid,28
+46,Male,Typhoid,16
+36,Female,Typhoid,26
+47,Female,Typhoid,17
+39,Male,Typhoid,18
+57,Male,Typhoid,21
+60,Male,Typhoid,30
+58,Male,Typhoid,26
+55,Male,Typhoid,16
+37,Female,Typhoid,30
+33,Female,Typhoid,24
+78,Male,Typhoid,20
+69,Female,Typhoid,23
+4,Female,Typhoid,30
+32,Male,Typhoid,25
+49,Male,Typhoid,19
+58,Male,Typhoid,21
+54,Male,Typhoid,23
+57,Male,Typhoid,23
+53,Female,Typhoid,15
+83,Female,Typhoid,19
+84,Male,Typhoid,26
+82,Female,Typhoid,29
+6,Female,Typhoid,15
+22,Female,Typhoid,19
+18,Male,Typhoid,16
+83,Male,Typhoid,26
+13,Male,Typhoid,14
+27,Male,Typhoid,27
+48,Male,Typhoid,16
+47,Female,Typhoid,29
+29,Female,Typhoid,28
+6,Male,Typhoid,23
+13,Female,Typhoid,24
+41,Female,Typhoid,19
+19,Female,Typhoid,30
+60,Male,Typhoid,24
+84,Male,Typhoid,14
+15,Female,Typhoid,25
+76,Female,Typhoid,26
+7,Female,Typhoid,17
+10,Female,Typhoid,20
+79,Male,Typhoid,26
+10,Female,Typhoid,23
+17,Male,Typhoid,29
+7,Male,Typhoid,14
+6,Female,Typhoid,21
+6,Male,Typhoid,30
+3,Female,Typhoid,25
+31,Female,Typhoid,17
+69,Female,Dengue,28
+82,Female,Dengue,26
+81,Male,Dengue,17
+24,Male,Dengue,27
+53,Male,Dengue,24
+13,Male,Dengue,21
+27,Female,Dengue,22
+43,Female,Dengue,25
+17,Female,Dengue,22
+51,Female,Dengue,20
+79,Female,Dengue,18
+31,Male,Dengue,14
+29,Male,Dengue,28
+62,Female,Dengue,27
+64,Female,Dengue,17
+17,Female,Dengue,18
+16,Female,Dengue,28
+29,Male,Dengue,18
+74,Male,Dengue,23
+17,Female,Dengue,18
+78,Female,Dengue,28
+25,Male,Dengue,26
+38,Male,Dengue,21
+59,Male,Dengue,22
+39,Female,Dengue,19
+54,Male,Dengue,18
+50,Female,Dengue,21
+9,Female,Dengue,27
+78,Male,Dengue,14
+48,Male,Dengue,16
+69,Male,Dengue,23
+48,Male,Dengue,18
+69,Female,Dengue,24
+20,Male,Dengue,28
+31,Male,Dengue,16
+22,Male,Dengue,15
+46,Female,Dengue,21
+18,Female,Dengue,28
+26,Male,Dengue,16
+72,Male,Dengue,22
+37,Female,Dengue,21
+1,Male,Dengue,16
+73,Female,Dengue,22
+29,Male,Dengue,14
+70,Female,Dengue,23
+74,Male,Dengue,16
+34,Female,Dengue,14
+58,Female,Dengue,22
+82,Female,Dengue,15
+54,Female,Dengue,22
+2,Male,Covid-19,23
+20,Female,Covid-19,21
+24,Male,Covid-19,24
+14,Female,Covid-19,14
+59,Male,Covid-19,24
+78,Male,Covid-19,20
+2,Female,Covid-19,13
+22,Male,Covid-19,12
+77,Male,Covid-19,12
+22,Male,Covid-19,13
+26,Male,Covid-19,18
+73,Male,Covid-19,20
+19,Male,Covid-19,11
+18,Female,Covid-19,13
+79,Male,Covid-19,13
+46,Male,Covid-19,11
+44,Female,Covid-19,14
+27,Female,Covid-19,16
+49,Female,Covid-19,11
+63,Female,Covid-19,17
+54,Male,Covid-19,18
+55,Male,Covid-19,18
+5,Male,Covid-19,18
+20,Male,Covid-19,21
+82,Male,Covid-19,12
+22,Female,Covid-19,25
+85,Male,Covid-19,11
+77,Female,Covid-19,10
+85,Male,Covid-19,13
+49,Female,Covid-19,17
+9,Male,Covid-19,21
+18,Female,Covid-19,24
+55,Male,Covid-19,21
+45,Female,Covid-19,20
+24,Male,Covid-19,19
+84,Male,Covid-19,10
+7,Female,Covid-19,15
+67,Female,Covid-19,14
+27,Male,Covid-19,24
+65,Male,Covid-19,19
+25,Male,Covid-19,18
+56,Male,Covid-19,25
+34,Female,Covid-19,22
+6,Female,Covid-19,25
+44,Female,Covid-19,13
+82,Female,Covid-19,13
+76,Female,Covid-19,19
+48,Male,Covid-19,12
+52,Female,Covid-19,15
+39,Male,Covid-19,16
+40,Male,Pneumonia,32
+73,Female,Pneumonia,26
+51,Male,Pneumonia,26
+81,Female,Pneumonia,24
+81,Female,Pneumonia,33
+66,Female,Pneumonia,30
+68,Female,Pneumonia,23
+17,Male,Pneumonia,22
+81,Female,Pneumonia,16
+65,Male,Pneumonia,17
+85,Female,Pneumonia,16
+26,Male,Pneumonia,17
+45,Male,Pneumonia,30
+31,Male,Pneumonia,28
+32,Female,Pneumonia,16
+35,Female,Pneumonia,32
+36,Female,Pneumonia,23
+35,Male,Pneumonia,16
+38,Male,Pneumonia,24
+31,Male,Pneumonia,16
+24,Female,Pneumonia,25
+36,Male,Pneumonia,20
+7,Male,Pneumonia,14
+54,Male,Pneumonia,17
+32,Female,Pneumonia,16
+10,Female,Pneumonia,22
+69,Male,Pneumonia,26
+4,Female,Pneumonia,27
+81,Male,Pneumonia,23
+19,Male,Pneumonia,18
+67,Female,Pneumonia,35
+14,Female,Pneumonia,23
+4,Male,Pneumonia,31
+61,Female,Pneumonia,31
+16,Male,Pneumonia,29
+60,Female,Pneumonia,27
+71,Male,Pneumonia,17
+16,Male,Pneumonia,34
+71,Male,Pneumonia,21
+77,Male,Pneumonia,34
+43,Male,Pneumonia,20
+68,Male,Pneumonia,14
+72,Male,Pneumonia,32
+21,Female,Pneumonia,27
+13,Male,Pneumonia,28
+62,Male,Pneumonia,16
+6,Female,Pneumonia,15
+25,Female,Pneumonia,21
+41,Male,Pneumonia,14
+41,Male,Pneumonia,32
+51,Male,Tuberculosis,164
+19,Female,Tuberculosis,80
+85,Female,Tuberculosis,62
+81,Female,Tuberculosis,158
+53,Male,Tuberculosis,103
+73,Male,Tuberculosis,132
+45,Female,Tuberculosis,71
+7,Female,Tuberculosis,66
+6,Female,Tuberculosis,66
+25,Male,Tuberculosis,68
+14,Male,Tuberculosis,71
+12,Female,Tuberculosis,163
+35,Female,Tuberculosis,153
+21,Female,Tuberculosis,67
+34,Male,Tuberculosis,144
+30,Female,Tuberculosis,73
+9,Male,Tuberculosis,133
+34,Male,Tuberculosis,131
+28,Female,Tuberculosis,115
+48,Male,Tuberculosis,177
+58,Female,Tuberculosis,101
+63,Female,Tuberculosis,90
+58,Male,Tuberculosis,144
+75,Male,Tuberculosis,95
+34,Female,Tuberculosis,124
+50,Female,Tuberculosis,60
+34,Female,Tuberculosis,97
+56,Female,Tuberculosis,158
+82,Female,Tuberculosis,171
+77,Female,Tuberculosis,132
+4,Female,Tuberculosis,81
+60,Male,Tuberculosis,176
+34,Male,Tuberculosis,83
+79,Female,Tuberculosis,84
+58,Male,Tuberculosis,93
+43,Female,Tuberculosis,138
+72,Female,Tuberculosis,91
+14,Female,Tuberculosis,101
+80,Female,Tuberculosis,160
+21,Male,Tuberculosis,138
+12,Female,Tuberculosis,91
+45,Female,Tuberculosis,134
+53,Female,Tuberculosis,166
+69,Male,Tuberculosis,113
+2,Male,Tuberculosis,117
+70,Female,Tuberculosis,121
+42,Female,Tuberculosis,167
+69,Female,Tuberculosis,72
+35,Female,Tuberculosis,95
+11,Female,Tuberculosis,168
+67,Female,Diabetes,60
+33,Male,Diabetes,67
+78,Female,Diabetes,106
+32,Female,Diabetes,88
+77,Female,Diabetes,82
+52,Male,Diabetes,47
+14,Female,Diabetes,38
+14,Male,Diabetes,103
+78,Male,Diabetes,55
+85,Male,Diabetes,45
+36,Male,Diabetes,75
+51,Male,Diabetes,50
+48,Female,Diabetes,36
+8,Female,Diabetes,87
+47,Female,Diabetes,55
+38,Female,Diabetes,81
+51,Female,Diabetes,35
+21,Male,Diabetes,84
+37,Female,Diabetes,41
+18,Male,Diabetes,111
+50,Female,Diabetes,100
+62,Male,Diabetes,67
+28,Female,Diabetes,53
+16,Male,Diabetes,85
+85,Male,Diabetes,116
+16,Male,Diabetes,101
+44,Female,Diabetes,110
+62,Female,Diabetes,53
+56,Male,Diabetes,33
+69,Male,Diabetes,110
+28,Female,Diabetes,39
+1,Male,Diabetes,57
+68,Female,Diabetes,95
+15,Male,Diabetes,49
+32,Female,Diabetes,78
+50,Male,Diabetes,118
+28,Male,Diabetes,46
+25,Male,Diabetes,36
+19,Female,Diabetes,54
+63,Male,Diabetes,71
+72,Female,Diabetes,53
+57,Male,Diabetes,65
+62,Female,Diabetes,83
+54,Female,Diabetes,32
+67,Female,Diabetes,88
+26,Male,Diabetes,93
+58,Female,Diabetes,74
+11,Female,Diabetes,36
+68,Male,Diabetes,40
+64,Male,Diabetes,45
+73,Female,Hypertension,65
+22,Female,Hypertension,73
+14,Male,Hypertension,90
+6,Female,Hypertension,37
+24,Male,Hypertension,69
+21,Female,Hypertension,37
+47,Male,Hypertension,20
+73,Female,Hypertension,83
+50,Female,Hypertension,78
+83,Female,Hypertension,25
+9,Female,Hypertension,52
+50,Male,Hypertension,36
+19,Male,Hypertension,73
+40,Female,Hypertension,82
+54,Female,Hypertension,85
+6,Female,Hypertension,37
+57,Female,Hypertension,54
+6,Female,Hypertension,81
+28,Male,Hypertension,67
+45,Male,Hypertension,56
+75,Male,Hypertension,85
+61,Female,Hypertension,72
+68,Male,Hypertension,75
+73,Female,Hypertension,63
+61,Female,Hypertension,62
+80,Female,Hypertension,67
+80,Female,Hypertension,33
+9,Male,Hypertension,25
+12,Female,Hypertension,39
+75,Male,Hypertension,51
+47,Male,Hypertension,32
+25,Male,Hypertension,57
+63,Female,Hypertension,68
+39,Male,Hypertension,85
+13,Female,Hypertension,50
+26,Female,Hypertension,57
+72,Male,Hypertension,66
+11,Female,Hypertension,28
+79,Male,Hypertension,81
+66,Male,Hypertension,25
+49,Male,Hypertension,64
+11,Male,Hypertension,54
+30,Female,Hypertension,80
+16,Female,Hypertension,68
+73,Female,Hypertension,45
+25,Male,Hypertension,43
+19,Male,Hypertension,50
+40,Female,Hypertension,85
+53,Female,Hypertension,34
+81,Male,Hypertension,49
+85,Female,Asthma,43
+83,Male,Asthma,28
+38,Female,Asthma,54
+47,Female,Asthma,36
+34,Male,Asthma,39
+3,Male,Asthma,40
+4,Female,Asthma,49
+28,Male,Asthma,35
+15,Male,Asthma,20
+65,Female,Asthma,46
+52,Male,Asthma,38
+79,Female,Asthma,59
+18,Male,Asthma,52
+62,Male,Asthma,26
+30,Male,Asthma,25
+28,Female,Asthma,36
+23,Male,Asthma,28
+76,Female,Asthma,22
+85,Female,Asthma,21
+61,Male,Asthma,60
+50,Female,Asthma,28
+64,Female,Asthma,17
+73,Male,Asthma,60
+18,Female,Asthma,55
+54,Male,Asthma,27
+62,Female,Asthma,44
+40,Male,Asthma,23
+7,Male,Asthma,37
+38,Female,Asthma,53
+76,Male,Asthma,36
+29,Female,Asthma,35
+82,Male,Asthma,31
+30,Female,Asthma,56
+26,Female,Asthma,47
+69,Female,Asthma,59
+65,Male,Asthma,55
+76,Male,Asthma,28
+12,Male,Asthma,22
+68,Male,Asthma,47
+36,Female,Asthma,56
+38,Male,Asthma,29
+3,Male,Asthma,54
+5,Female,Asthma,42
+25,Female,Asthma,58
+17,Female,Asthma,43
+44,Male,Asthma,33
+10,Female,Asthma,48
+78,Female,Asthma,40
+61,Female,Asthma,30
+21,Female,Asthma,23
+36,Male,Bronchitis,24
+59,Male,Bronchitis,14
+62,Female,Bronchitis,25
+18,Female,Bronchitis,20
+44,Female,Bronchitis,25
+6,Male,Bronchitis,23
+16,Male,Bronchitis,24
+16,Male,Bronchitis,24
+13,Male,Bronchitis,21
+53,Male,Bronchitis,17
+77,Male,Bronchitis,15
+80,Male,Bronchitis,17
+7,Male,Bronchitis,18
+33,Male,Bronchitis,13
+50,Female,Bronchitis,19
+6,Male,Bronchitis,12
+16,Male,Bronchitis,21
+76,Male,Bronchitis,12
+33,Male,Bronchitis,20
+10,Male,Bronchitis,24
+76,Female,Bronchitis,15
+22,Male,Bronchitis,14
+12,Male,Bronchitis,14
+34,Male,Bronchitis,24
+38,Male,Bronchitis,13
+48,Male,Bronchitis,21
+62,Female,Bronchitis,23
+16,Female,Bronchitis,16
+29,Male,Bronchitis,25
+5,Male,Bronchitis,19
+71,Male,Bronchitis,11
+60,Female,Bronchitis,20
+20,Male,Bronchitis,13
+54,Male,Bronchitis,19
+82,Male,Bronchitis,18
+23,Male,Bronchitis,21
+76,Male,Bronchitis,25
+69,Female,Bronchitis,10
+71,Male,Bronchitis,14
+50,Male,Bronchitis,12
+62,Male,Bronchitis,18
+36,Female,Bronchitis,23
+76,Male,Bronchitis,21
+41,Female,Bronchitis,17
+81,Female,Bronchitis,15
+85,Male,Bronchitis,18
+73,Male,Bronchitis,18
+28,Female,Bronchitis,18
+62,Male,Bronchitis,11
+17,Female,Bronchitis,13
+59,Female,Hepatitis,30
+9,Male,Hepatitis,102
+37,Female,Hepatitis,60
+63,Female,Hepatitis,98
+53,Male,Hepatitis,70
+68,Female,Hepatitis,104
+54,Female,Hepatitis,90
+61,Male,Hepatitis,78
+12,Female,Hepatitis,51
+3,Female,Hepatitis,112
+56,Female,Hepatitis,103
+5,Male,Hepatitis,41
+7,Male,Hepatitis,83
+76,Male,Hepatitis,120
+68,Female,Hepatitis,52
+62,Male,Hepatitis,65
+46,Female,Hepatitis,87
+51,Male,Hepatitis,39
+65,Male,Hepatitis,86
+29,Male,Hepatitis,80
+28,Female,Hepatitis,76
+11,Female,Hepatitis,63
+27,Male,Hepatitis,43
+63,Female,Hepatitis,76
+72,Female,Hepatitis,52
+71,Male,Hepatitis,112
+11,Male,Hepatitis,96
+42,Female,Hepatitis,104
+61,Female,Hepatitis,75
+75,Female,Hepatitis,33
+67,Male,Hepatitis,96
+85,Female,Hepatitis,34
+41,Male,Hepatitis,53
+54,Male,Hepatitis,92
+9,Female,Hepatitis,34
+5,Male,Hepatitis,51
+43,Female,Hepatitis,73
+13,Female,Hepatitis,47
+13,Male,Hepatitis,79
+43,Male,Hepatitis,52
+26,Female,Hepatitis,58
+72,Male,Hepatitis,92
+25,Female,Hepatitis,111
+2,Male,Hepatitis,46
+9,Female,Hepatitis,96
+61,Male,Hepatitis,62
+6,Male,Hepatitis,95
+85,Female,Hepatitis,91
+80,Male,Hepatitis,84
+48,Male,Hepatitis,66
+85,Female,Chickenpox,11
+18,Female,Chickenpox,15
+16,Male,Chickenpox,10
+64,Male,Chickenpox,11
+64,Female,Chickenpox,15
+21,Male,Chickenpox,20
+26,Male,Chickenpox,20
+52,Male,Chickenpox,15
+46,Female,Chickenpox,13
+49,Male,Chickenpox,13
+39,Female,Chickenpox,17
+78,Female,Chickenpox,21
+18,Female,Chickenpox,11
+20,Male,Chickenpox,10
+39,Female,Chickenpox,16
+17,Male,Chickenpox,18
+12,Male,Chickenpox,10
+67,Male,Chickenpox,19
+23,Female,Chickenpox,10
+76,Female,Chickenpox,14
+60,Male,Chickenpox,19
+17,Female,Chickenpox,15
+1,Female,Chickenpox,15
+58,Female,Chickenpox,20
+71,Female,Chickenpox,10
+18,Male,Chickenpox,14
+81,Male,Chickenpox,10
+23,Male,Chickenpox,21
+21,Male,Chickenpox,13
+32,Female,Chickenpox,15
+25,Female,Chickenpox,19
+73,Female,Chickenpox,16
+25,Female,Chickenpox,11
+84,Male,Chickenpox,14
+29,Female,Chickenpox,12
+76,Male,Chickenpox,16
+42,Male,Chickenpox,10
+23,Female,Chickenpox,17
+66,Male,Chickenpox,11
+65,Female,Chickenpox,19
+40,Male,Chickenpox,20
+13,Female,Chickenpox,16
+16,Male,Chickenpox,14
+21,Female,Chickenpox,21
+33,Female,Chickenpox,21
+76,Female,Chickenpox,13
+9,Female,Chickenpox,16
+80,Male,Chickenpox,20
+6,Male,Chickenpox,17
+27,Male,Chickenpox,11
+3,Female,Migraine,6
+57,Male,Migraine,6
+15,Female,Migraine,5
+6,Female,Migraine,5
+28,Female,Migraine,7
+24,Female,Migraine,5
+4,Female,Migraine,6
+10,Male,Migraine,2
+34,Female,Migraine,6
+10,Female,Migraine,4
+74,Male,Migraine,2
+63,Male,Migraine,6
+23,Female,Migraine,6
+81,Female,Migraine,6
+45,Female,Migraine,2
+21,Female,Migraine,5
+17,Male,Migraine,5
+73,Male,Migraine,3
+26,Male,Migraine,7
+3,Male,Migraine,5
+40,Male,Migraine,7
+31,Male,Migraine,5
+21,Female,Migraine,4
+79,Female,Migraine,5
+46,Female,Migraine,4
+24,Male,Migraine,6
+48,Female,Migraine,4
+79,Female,Migraine,2
+76,Male,Migraine,4
+41,Male,Migraine,7
+34,Female,Migraine,6
+32,Female,Migraine,5
+9,Female,Migraine,6
+5,Male,Migraine,4
+74,Female,Migraine,2
+40,Male,Migraine,7
+63,Male,Migraine,2
+28,Male,Migraine,7
+68,Male,Migraine,2
+15,Female,Migraine,3
+32,Female,Migraine,2
+47,Female,Migraine,3
+38,Female,Migraine,6
+19,Male,Migraine,2
+2,Female,Migraine,6
+34,Female,Migraine,6
+14,Female,Migraine,4
+34,Female,Migraine,2
+63,Male,Migraine,3
+67,Female,Migraine,3
+77,Male,Food Poisoning,2
+76,Female,Food Poisoning,3
+39,Male,Food Poisoning,2
+64,Male,Food Poisoning,7
+55,Male,Food Poisoning,8
+78,Female,Food Poisoning,8
+39,Female,Food Poisoning,7
+35,Male,Food Poisoning,6
+26,Male,Food Poisoning,4
+17,Male,Food Poisoning,9
+47,Male,Food Poisoning,7
+29,Female,Food Poisoning,9
+4,Female,Food Poisoning,10
+55,Female,Food Poisoning,7
+33,Female,Food Poisoning,8
+82,Female,Food Poisoning,9
+50,Male,Food Poisoning,2
+64,Male,Food Poisoning,8
+59,Female,Food Poisoning,2
+66,Female,Food Poisoning,8
+26,Male,Food Poisoning,10
+2,Female,Food Poisoning,8
+42,Female,Food Poisoning,6
+76,Male,Food Poisoning,2
+83,Male,Food Poisoning,8
+36,Female,Food Poisoning,6
+4,Male,Food Poisoning,4
+55,Male,Food Poisoning,10
+29,Male,Food Poisoning,4
+6,Female,Food Poisoning,9
+41,Female,Food Poisoning,4
+55,Male,Food Poisoning,6
+11,Male,Food Poisoning,3
+75,Male,Food Poisoning,2
+2,Male,Food Poisoning,9
+28,Male,Food Poisoning,9
+70,Female,Food Poisoning,5
+82,Male,Food Poisoning,9
+24,Male,Food Poisoning,2
+13,Male,Food Poisoning,5
+54,Female,Food Poisoning,3
+83,Female,Food Poisoning,8
+68,Female,Food Poisoning,9
+48,Female,Food Poisoning,10
+68,Female,Food Poisoning,3
+85,Female,Food Poisoning,4
+29,Female,Food Poisoning,5
+69,Male,Food Poisoning,2
+10,Female,Food Poisoning,6
+53,Female,Food Poisoning,9
+65,Female,UTI,7
+9,Female,UTI,13
+1,Male,UTI,9
+25,Female,UTI,12
+3,Male,UTI,12
+1,Male,UTI,14
+76,Female,UTI,13
+23,Male,UTI,12
+46,Female,UTI,7
+63,Male,UTI,5
+34,Female,UTI,14
+14,Male,UTI,14
+1,Male,UTI,12
+57,Male,UTI,13
+32,Female,UTI,6
+79,Female,UTI,8
+48,Male,UTI,10
+53,Male,UTI,14
+61,Female,UTI,7
+33,Female,UTI,11
+74,Female,UTI,7
+66,Male,UTI,13
+4,Male,UTI,5
+43,Female,UTI,12
+27,Female,UTI,10
+68,Male,UTI,7
+51,Female,UTI,13
+50,Female,UTI,9
+52,Female,UTI,13
+67,Male,UTI,14
+4,Female,UTI,11
+64,Female,UTI,12
+38,Female,UTI,6
+80,Female,UTI,6
+35,Female,UTI,14
+10,Male,UTI,13
+57,Female,UTI,8
+25,Female,UTI,9
+69,Male,UTI,9
+85,Female,UTI,6
+62,Female,UTI,7
+19,Male,UTI,11
+15,Female,UTI,5
+70,Female,UTI,6
+69,Male,UTI,9
+40,Male,UTI,10
+21,Female,UTI,7
+84,Female,UTI,13
+34,Male,UTI,14
+33,Male,UTI,6
+42,Male,Jaundice,55
+73,Female,Jaundice,29
+25,Male,Jaundice,46
+25,Male,Jaundice,42
+72,Male,Jaundice,26
+63,Female,Jaundice,35
+78,Female,Jaundice,54
+2,Female,Jaundice,46
+2,Female,Jaundice,37
+63,Male,Jaundice,52
+8,Female,Jaundice,23
+33,Female,Jaundice,49
+54,Female,Jaundice,43
+76,Female,Jaundice,26
+67,Female,Jaundice,35
+31,Male,Jaundice,29
+42,Female,Jaundice,33
+48,Female,Jaundice,49
+61,Male,Jaundice,21
+40,Female,Jaundice,48
+75,Male,Jaundice,51
+62,Female,Jaundice,44
+47,Male,Jaundice,43
+6,Male,Jaundice,43
+33,Male,Jaundice,31
+51,Male,Jaundice,36
+32,Female,Jaundice,22
+74,Female,Jaundice,55
+75,Male,Jaundice,60
+51,Female,Jaundice,33
+39,Female,Jaundice,37
+57,Male,Jaundice,31
+51,Male,Jaundice,32
+21,Male,Jaundice,42
+85,Male,Jaundice,51
+17,Male,Jaundice,44
+43,Male,Jaundice,44
+80,Female,Jaundice,23
+21,Female,Jaundice,33
+1,Female,Jaundice,45
+22,Male,Jaundice,50
+54,Male,Jaundice,46
+68,Female,Jaundice,57
+45,Female,Jaundice,51
+1,Male,Jaundice,55
+64,Male,Jaundice,31
+51,Male,Jaundice,28
+54,Male,Jaundice,29
+5,Male,Jaundice,34
+49,Male,Jaundice,34
+75,Female,Anemia,68
+69,Female,Anemia,78
+51,Male,Anemia,111
+22,Female,Anemia,45
+26,Male,Anemia,60
+71,Male,Anemia,86
+66,Female,Anemia,109
+12,Male,Anemia,99
+53,Female,Anemia,90
+41,Female,Anemia,34
+26,Male,Anemia,92
+65,Male,Anemia,40
+39,Male,Anemia,45
+42,Female,Anemia,93
+57,Male,Anemia,56
+75,Female,Anemia,55
+33,Male,Anemia,58
+71,Male,Anemia,105
+45,Male,Anemia,78
+64,Male,Anemia,50
+82,Female,Anemia,43
+22,Female,Anemia,101
+46,Male,Anemia,37
+9,Female,Anemia,97
+23,Female,Anemia,32
+53,Male,Anemia,41
+38,Male,Anemia,65
+54,Male,Anemia,64
+27,Female,Anemia,69
+72,Female,Anemia,76
+22,Female,Anemia,89
+70,Female,Anemia,75
+49,Female,Anemia,106
+47,Female,Anemia,71
+14,Female,Anemia,94
+43,Male,Anemia,31
+40,Female,Anemia,40
+2,Female,Anemia,72
+44,Female,Anemia,42
+49,Female,Anemia,32
+37,Female,Anemia,48
+74,Female,Anemia,35
+31,Female,Anemia,101
+16,Male,Anemia,94
+31,Female,Anemia,61
+35,Male,Anemia,94
+44,Female,Anemia,84
+84,Female,Anemia,95
+26,Male,Anemia,109
+54,Female,Anemia,49
+79,Female,Arthritis,159
+85,Male,Arthritis,134
+8,Female,Arthritis,79
+23,Female,Arthritis,136
+8,Female,Arthritis,72
+76,Male,Arthritis,168
+80,Female,Arthritis,124
+55,Female,Arthritis,127
+61,Female,Arthritis,60
+4,Male,Arthritis,165
+32,Male,Arthritis,53
+27,Male,Arthritis,79
+74,Male,Arthritis,105
+75,Female,Arthritis,73
+51,Female,Arthritis,129
+16,Male,Arthritis,118
+52,Female,Arthritis,96
+15,Female,Arthritis,91
+26,Male,Arthritis,102
+54,Female,Arthritis,82
+83,Female,Arthritis,70
+79,Female,Arthritis,33
+49,Female,Arthritis,67
+48,Female,Arthritis,40
+50,Female,Arthritis,142
+20,Male,Arthritis,144
+23,Female,Arthritis,114
+49,Female,Arthritis,90
+53,Female,Arthritis,155
+32,Male,Arthritis,114
+4,Male,Arthritis,106
+10,Male,Arthritis,173
+72,Female,Arthritis,89
+1,Female,Arthritis,121
+73,Female,Arthritis,154
+37,Female,Arthritis,175
+46,Female,Arthritis,132
+82,Male,Arthritis,146
+75,Male,Arthritis,147
+60,Female,Arthritis,145
+15,Male,Arthritis,66
+38,Female,Arthritis,160
+62,Male,Arthritis,158
+52,Female,Arthritis,97
+76,Female,Arthritis,158
+5,Female,Arthritis,141
+76,Male,Arthritis,34
+80,Female,Arthritis,151
+43,Female,Arthritis,37
+61,Female,Arthritis,75
+54,Female,Kidney Stones,7
+19,Female,Kidney Stones,7
+72,Male,Kidney Stones,10
+50,Male,Kidney Stones,23
+18,Female,Kidney Stones,29
+30,Female,Kidney Stones,18
+51,Female,Kidney Stones,18
+57,Female,Kidney Stones,18
+23,Female,Kidney Stones,8
+81,Male,Kidney Stones,14
+33,Male,Kidney Stones,18
+82,Male,Kidney Stones,21
+39,Female,Kidney Stones,22
+84,Male,Kidney Stones,27
+10,Male,Kidney Stones,20
+63,Male,Kidney Stones,10
+59,Male,Kidney Stones,23
+18,Female,Kidney Stones,14
+6,Female,Kidney Stones,30
+23,Male,Kidney Stones,29
+28,Female,Kidney Stones,17
+27,Female,Kidney Stones,7
+61,Male,Kidney Stones,14
+22,Male,Kidney Stones,19
+13,Male,Kidney Stones,19
+3,Male,Kidney Stones,23
+34,Male,Kidney Stones,19
+26,Male,Kidney Stones,27
+13,Female,Kidney Stones,22
+34,Female,Kidney Stones,19
+77,Female,Kidney Stones,7
+80,Male,Kidney Stones,27
+57,Female,Kidney Stones,16
+70,Male,Kidney Stones,15
+68,Female,Kidney Stones,30
+82,Female,Kidney Stones,13
+3,Female,Kidney Stones,21
+54,Male,Kidney Stones,13
+69,Male,Kidney Stones,23
+71,Male,Kidney Stones,14
+7,Male,Kidney Stones,17
+27,Male,Kidney Stones,27
+53,Male,Kidney Stones,19
+28,Female,Kidney Stones,8
+68,Male,Kidney Stones,16
+71,Male,Kidney Stones,27
+25,Male,Kidney Stones,15
+26,Female,Kidney Stones,12
+7,Female,Kidney Stones,20
+15,Male,Kidney Stones,16
+41,Female,Heart Disease,129
+57,Female,Heart Disease,33
+23,Male,Heart Disease,176
+5,Female,Heart Disease,76
+16,Male,Heart Disease,149
+28,Male,Heart Disease,112
+46,Male,Heart Disease,121
+69,Male,Heart Disease,179
+33,Female,Heart Disease,135
+85,Male,Heart Disease,114
+27,Female,Heart Disease,119
+21,Male,Heart Disease,80
+63,Male,Heart Disease,35
+17,Male,Heart Disease,177
+51,Female,Heart Disease,92
+21,Male,Heart Disease,118
+71,Female,Heart Disease,41
+19,Male,Heart Disease,136
+25,Male,Heart Disease,42
+54,Male,Heart Disease,82
+80,Male,Heart Disease,171
+66,Female,Heart Disease,104
+54,Male,Heart Disease,155
+41,Male,Heart Disease,110
+11,Female,Heart Disease,57
+38,Female,Heart Disease,148
+57,Female,Heart Disease,64
+41,Female,Heart Disease,173
+5,Female,Heart Disease,122
+78,Male,Heart Disease,61
+19,Female,Heart Disease,148
+41,Female,Heart Disease,138
+29,Male,Heart Disease,81
+59,Male,Heart Disease,160
+44,Female,Heart Disease,173
+58,Male,Heart Disease,153
+3,Male,Heart Disease,134
+84,Female,Heart Disease,107
+7,Female,Heart Disease,55
+61,Female,Heart Disease,30
+70,Female,Heart Disease,53
+16,Male,Heart Disease,65
+28,Male,Heart Disease,102
+36,Female,Heart Disease,103
+12,Female,Heart Disease,96
+30,Male,Heart Disease,169
+43,Female,Heart Disease,179
+8,Male,Heart Disease,105
+71,Male,Heart Disease,103
+67,Male,Heart Disease,170
+81,Female,Stroke,137
+69,Female,Stroke,214
+70,Male,Stroke,228
+48,Female,Stroke,101
+38,Female,Stroke,89
+53,Male,Stroke,140
+46,Male,Stroke,206
+50,Male,Stroke,124
+46,Female,Stroke,212
+5,Female,Stroke,221
+39,Male,Stroke,200
+57,Female,Stroke,194
+33,Male,Stroke,192
+14,Female,Stroke,113
+54,Male,Stroke,120
+82,Female,Stroke,96
+57,Female,Stroke,198
+44,Male,Stroke,136
+84,Male,Stroke,158
+1,Female,Stroke,174
+67,Male,Stroke,160
+41,Male,Stroke,141
+30,Male,Stroke,78
+83,Male,Stroke,134
+76,Male,Stroke,178
+4,Female,Stroke,232
+41,Male,Stroke,86
+29,Female,Stroke,111
+48,Female,Stroke,188
+28,Male,Stroke,155
+21,Female,Stroke,94
+6,Male,Stroke,172
+14,Female,Stroke,158
+34,Male,Stroke,122
+77,Female,Stroke,197
+82,Male,Stroke,140
+53,Female,Stroke,65
+10,Male,Stroke,224
+6,Male,Stroke,102
+35,Female,Stroke,159
+20,Female,Stroke,155
+50,Male,Stroke,196
+3,Male,Stroke,173
+44,Female,Stroke,191
+21,Male,Stroke,240
+69,Female,Stroke,234
+44,Male,Stroke,103
+17,Male,Stroke,178
+72,Male,Stroke,153
+76,Male,Stroke,169
+11,Female,Allergy,2
+70,Male,Allergy,5
+5,Female,Allergy,5
+60,Female,Allergy,2
+79,Male,Allergy,1
+9,Male,Allergy,4
+65,Male,Allergy,4
+81,Female,Allergy,3
+63,Female,Allergy,5
+5,Male,Allergy,5
+61,Male,Allergy,4
+10,Female,Allergy,5
+71,Female,Allergy,3
+36,Female,Allergy,2
+16,Male,Allergy,5
+33,Male,Allergy,1
+60,Male,Allergy,3
+80,Female,Allergy,3
+46,Male,Allergy,2
+62,Male,Allergy,1
+28,Female,Allergy,3
+63,Female,Allergy,2
+48,Female,Allergy,4
+74,Female,Allergy,3
+82,Female,Allergy,2
+81,Female,Allergy,3
+69,Male,Allergy,1
+7,Male,Allergy,1
+20,Female,Allergy,1
+23,Male,Allergy,1
+42,Male,Allergy,1
+13,Male,Allergy,5
+11,Female,Allergy,2
+19,Female,Allergy,2
+79,Female,Allergy,3
+46,Female,Allergy,3
+27,Female,Allergy,1
+65,Female,Allergy,2
+67,Male,Allergy,2
+22,Male,Allergy,1
+70,Male,Allergy,4
+27,Male,Allergy,2
+51,Male,Allergy,4
+20,Female,Allergy,2
+23,Male,Allergy,5
+11,Male,Allergy,3
+3,Male,Allergy,1
+58,Female,Allergy,3
+12,Female,Allergy,5
+66,Female,Allergy,5
+68,Female,Sinusitis,21
+8,Male,Sinusitis,21
+52,Female,Sinusitis,10
+29,Male,Sinusitis,19
+50,Male,Sinusitis,15
+19,Male,Sinusitis,18
+43,Male,Sinusitis,15
+5,Male,Sinusitis,21
+30,Female,Sinusitis,10
+30,Male,Sinusitis,16
+28,Female,Sinusitis,16
+33,Female,Sinusitis,7
+30,Male,Sinusitis,15
+74,Female,Sinusitis,19
+68,Female,Sinusitis,8
+39,Female,Sinusitis,11
+53,Female,Sinusitis,10
+39,Female,Sinusitis,16
+74,Female,Sinusitis,16
+76,Female,Sinusitis,18
+61,Male,Sinusitis,11
+57,Female,Sinusitis,8
+58,Male,Sinusitis,7
+82,Female,Sinusitis,21
+13,Male,Sinusitis,8
+51,Female,Sinusitis,17
+7,Male,Sinusitis,11
+16,Female,Sinusitis,14
+58,Male,Sinusitis,18
+53,Female,Sinusitis,16
+77,Female,Sinusitis,12
+13,Female,Sinusitis,8
+42,Female,Sinusitis,7
+4,Female,Sinusitis,20
+76,Female,Sinusitis,15
+78,Female,Sinusitis,19
+47,Male,Sinusitis,7
+68,Male,Sinusitis,7
+28,Male,Sinusitis,17
+12,Female,Sinusitis,10
+33,Female,Sinusitis,14
+16,Male,Sinusitis,19
+65,Female,Sinusitis,7
+31,Male,Sinusitis,7
+80,Female,Sinusitis,9
+83,Female,Sinusitis,8
+35,Male,Sinusitis,19
+58,Male,Sinusitis,7
+46,Male,Sinusitis,13
+34,Male,Sinusitis,19
+30,Female,Typhoid,20
